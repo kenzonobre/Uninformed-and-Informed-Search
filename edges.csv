@@ -1,0 +1,91 @@
+name1,name2
+Saída da Mat,Saída Bloco 5
+Saída da Mat,Praça das Bandeiras
+Saída da Mat,Biblioteca EESC - Leste
+Saída da Mat,Estacionamento ICMC
+Saída da Mat,Triunvirato da Matemática
+Saída da Mat,Escadinha da Jaca
+Saída Bloco 5,Praça das Bandeiras
+Saída Bloco 5,Alojamento A
+Saída Bloco 5,Biblioteca EESC - Leste
+Saída Bloco 5,Estacionamento ICMC
+Saída Bloco 5,Triunvirato da Matemática
+Saída Biblio,Cantina
+Saída Biblio,Praça das Bandeiras
+Saída Biblio,Alojamento A
+Cantina,Praça das Bandeiras
+Cantina,Estacionamento ICMC
+Cantina,Jardim Secreto
+Cantina,Escadinha da Jaca
+Praça das Bandeiras,Biblioteca EESC - Leste
+Praça das Bandeiras,Triunvirato da Matemática
+Alojamento A,Biblioteca EESC - Oeste
+Alojamento A,Biblioteca EESC - Leste
+Alojamento A,Livraria
+Alojamento A,Biblioteca IFSC
+Alojamento A,Arcos Estranhos do EESC
+Alojamento A,Observatório
+CAASO,Biblioteca EESC - Oeste
+CAASO,Banco do Brasil
+CAASO,Livraria
+CAASO,Campinho
+CAASO,Cefer
+CAASO,IFSC - Norte
+CAASO,Baja
+CAASO,Rua S.E.M
+Biblioteca EESC - Oeste,Biblioteca EESC - Leste
+Biblioteca EESC - Oeste,Banco do Brasil
+Biblioteca EESC - Oeste,Livraria
+Biblioteca EESC - Leste,Estacionamento ICMC
+Banco do Brasil,Triunvirato da Matemática
+Livraria,IFSC - Norte
+Livraria,Arcos Estranhos do EESC
+Livraria,Rua S.E.M
+Campinho,Cefer
+Campinho,Alojamento B - E
+Campinho,IQSC
+Campinho,Baja
+Campinho,Labs IQSC
+Campinho,Rua S.E.M
+Cefer,Centrinho
+Cefer,Estacionamento Prefeitura
+Cefer,IQSC
+Cefer,Baja
+Cefer,Labs IQSC
+Salão de Eventos,Estacionamento Prefeitura
+Salão de Eventos,Prefeitura
+Centrinho,Estacionamento Prefeitura
+Centrinho,Prefeitura
+Centrinho,IQSC
+Centrinho,Labs IQSC
+Centrinho,Estacionamento IQSC
+Estacionamento Prefeitura,Prefeitura
+Estacionamento Prefeitura,IQSC
+Estacionamento Prefeitura,IAU
+Prefeitura,IAU
+Estacionamento ICMC,Triunvirato da Matemática
+Estacionamento ICMC,Escadinha da Jaca
+IFSC - Norte,Biblioteca IFSC
+IFSC - Norte,Arcos Estranhos do EESC
+IFSC - Norte,Rua S.E.M
+Biblioteca IFSC,Observatório
+Biblioteca IFSC,Arcos Estranhos do EESC
+Alojamento B - E,Baja
+Alojamento B - E,Labs IQSC
+Alojamento B - E,Estacionamento EESC
+Uspão,Rotatória Arq
+Uspão,Ponte EESC
+Matadouro,Estacionamento IQSC
+Matadouro,Estacionamento EESC
+Matadouro,Ponte EESC
+IQSC,Labs IQSC
+IQSC,Estacionamento IQSC
+Baja,Rua S.E.M
+IAU,Rotatória Arq
+IAU,Estacionamento IQSC
+IAU,Ponte EESC
+Labs IQSC,Estacionamento IQSC
+Labs IQSC,Estacionamento EESC
+Rotatória Arq,Estacionamento IQSC
+Rotatória Arq,Ponte EESC
+Estacionamento IQSC,Ponte EESC
